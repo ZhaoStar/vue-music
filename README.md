@@ -1,5 +1,3 @@
-# vue-music
-> 音乐app
 
 ## Build Setup
 
