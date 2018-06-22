@@ -1,8 +1,4 @@
 # vue-music
-<<<<<<< HEAD
-手把手开发音乐APP
-=======
-
 > 音乐app
 
 ## Build Setup
